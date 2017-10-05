@@ -1,0 +1,9 @@
+name: web_simple_ddc
+
+dependency_overrides:
+  build:
+    path: ../../build
+  build_compilers:
+    path: ../../build_compilers
+  build_runner:
+    path: ../../build_runner
